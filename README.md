@@ -408,24 +408,6 @@ npm install
 npm run dev
 ```
 
-## 📝 Notes
-
-- โปรเจคนี้พัฒนาเพื่อใช้ในการสัมภาษณ์งาน
-- เน้นการแสดง best practices และ clean code
-- ไม่ได้ optimize สำหรับ production
-- เหมาะสำหรับ learning และ demonstration
-
-## 👤 Author
-
-Developed as a technical assessment for job interview.
-
-**Skills Demonstrated:**
-- Full-stack development
-- Clean architecture
-- Security best practices
-- Testing & documentation
-- Modern web technologies
-
 ---
 
 **Thank you for reviewing this project!** 🙏
