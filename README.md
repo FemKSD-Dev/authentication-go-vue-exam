@@ -338,8 +338,6 @@ CREATE TABLE users (
 ## 📚 Documentation
 
 - [Backend README](apps/api/README.md) - API documentation
-- [Frontend Testing Guide](apps/client/TESTING.md) - Test documentation
-- [Test Summary](apps/client/TEST_SUMMARY.md) - Test results
 - [Docker Guide](DOCKER.md) - Detailed Docker deployment guide
 - [Deployment Requirements](DEPLOYMENT_REQUIREMENTS.md) - What you need to deploy
 
