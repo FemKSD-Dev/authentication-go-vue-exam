@@ -335,17 +335,6 @@ CREATE TABLE users (
 - Environment management
 - Database migrations
 
-## 🚧 Future Enhancements
-
-- [ ] Email verification
-- [ ] Password reset flow
-- [ ] Remember me functionality
-- [ ] Social login (OAuth)
-- [ ] Two-factor authentication
-- [ ] User roles & permissions
-- [ ] API rate limiting
-- [ ] Swagger documentation
-
 ## 📚 Documentation
 
 - [Backend README](apps/api/README.md) - API documentation
