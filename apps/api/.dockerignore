@@ -1,0 +1,37 @@
+# Git
+.git
+.gitignore
+
+# Documentation
+*.md
+README.md
+
+# IDE
+.vscode
+.idea
+
+# Test files
+*_test.go
+**/*_test.go
+
+# Binaries
+*.exe
+*.dll
+*.so
+*.dylib
+server
+migrate
+
+# Temp files
+*.tmp
+*.log
+tmp/
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Coverage
+coverage.out
+*.out
